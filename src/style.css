@@ -1,0 +1,47 @@
+
+
+body {
+  background-color: red;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px 15px;
+  margin: 10px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.actions-wrapper span {
+  font-size: 40px;
+  margin: 0 10px;
+  width: 50px;
+}
+
+.container {
+  border: 5px solid #fff;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 20px;
+  width: 600px;
+}
+
+.container span {
+  font-size: 80px;
+}
+
+.logo {
+  background-image: url("https://img2.gratispng.com/20180607/uqz/kisspng-pomodoro-technique-marinara-sauce-timer-time-manag-pomodoro-technique-5b194d466ca7a0.2504313815283848384451.jpg");
+}
